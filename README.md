@@ -1,5 +1,7 @@
 # VoltraTRACK ⚡
 
+![VoltraTRACK Preview](hero-car.jpg)
+
 Electric vehicle tracking and management system.
 
 ## ✨ Features
